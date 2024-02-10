@@ -1,3 +1,3 @@
 # Python-Project
 <br>
-FitFreek
+Project name: FitFreek
